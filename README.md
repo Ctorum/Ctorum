@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### I'm Vitor
+#### I'm Vitor
 
 - 🔭 I’m currently working on my team arduino chess board code
 - 🌱 I’m currently learning TypeScript better
